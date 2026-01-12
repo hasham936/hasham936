@@ -1,7 +1,9 @@
-# 👋 Hey, I'm Hasham!
+# 👋 Hey there, I'm Hasham!
 
-## 🌍 Socials:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON_ID)
+🚀 **Passionate Developer | Lifelong Learner | Problem Solver**
+
+I build cool web apps, dive into new technologies, and love turning ideas into reality.  
+Whether it’s front-end magic or back-end logic, I’m always up for a coding challenge.  
 
 ---
 
@@ -20,9 +22,7 @@
 ## 📊 GitHub Stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hasham936&show_icons=true&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com/?user=hasham936&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasham936&layout=compact&theme=tokyonight)
 
 ---
@@ -30,3 +30,7 @@
 ## 🏆 GitHub Trophies:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hasham936&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+💡 *Fun Fact:* I believe code is poetry, and I love writing elegant solutions that just work!
