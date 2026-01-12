@@ -1,13 +1,19 @@
 # 👋 Hey there, I'm Hasham!
 
-🚀 **Passionate Developer | Lifelong Learner | Problem Solver**
+**Passionate Developer | Lifelong Learner | Problem Solver**
 
-I build cool web apps, dive into new technologies, and love turning ideas into reality.  
+I build cool web apps, explore new technologies, and love turning ideas into reality.  
 Whether it’s front-end magic or back-end logic, I’m always up for a coding challenge.  
 
 ---
 
-## 🖥️ Tech Stack:
+## Find me around the web:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasham-hassan-dev/)
+
+---
+
+## Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,17 +25,20 @@ Whether it’s front-end magic or back-end logic, I’m always up for a coding c
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Activity:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hasham936&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=hasham936&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasham936&layout=compact&theme=tokyonight)
+![Commits](https://img.shields.io/badge/Commits-Active-green)
+![Repositories](https://img.shields.io/badge/Repositories-21-blue)
+![Followers](https://img.shields.io/badge/Followers-45-orange)
+![Following](https://img.shields.io/badge/Following-10-lightgrey)
 
 ---
 
-## 🏆 GitHub Trophies:
+## Achievements:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hasham936&theme=tokyonight&no-frame=true&row=1)
+![Badge](https://img.shields.io/badge/Top%20Performer-🏆-yellow)
+![Badge](https://img.shields.io/badge/Contributor-💻-blue)
+![Badge](https://img.shields.io/badge/Problem%20Solver-🧠-green)
 
 ---
 
