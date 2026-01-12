@@ -25,21 +25,5 @@ Whether it’s front-end magic or back-end logic, I’m always up for a coding c
 
 ---
 
-## GitHub Activity:
-
-![Commits](https://img.shields.io/badge/Commits-Active-green)
-![Repositories](https://img.shields.io/badge/Repositories-21-blue)
-![Followers](https://img.shields.io/badge/Followers-45-orange)
-![Following](https://img.shields.io/badge/Following-10-lightgrey)
-
----
-
-## Achievements:
-
-![Badge](https://img.shields.io/badge/Top%20Performer-🏆-yellow)
-![Badge](https://img.shields.io/badge/Contributor-💻-blue)
-![Badge](https://img.shields.io/badge/Problem%20Solver-🧠-green)
-
----
 
 💡 *Fun Fact:* I believe code is poetry, and I love writing elegant solutions that just work!
